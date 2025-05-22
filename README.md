@@ -9,8 +9,7 @@ Trực quan và dễ nhìn
 ## Cách mã hoá dữ liệu 
 1. Bấm "Chọn" dữ liệu muốn mã hoá vô
 <p align="center">
-   ![image](https://github.com/user-attachments/assets/6d295942-6ef6-41f7-8990-e22641c68a60)
-</p>
+   <image></image>
 3. Nhập khoá mã cho file
 <p align="center">
    ![image](https://github.com/user-attachments/assets/7275a4c1-b1be-4560-a241-b6eb71e81311)
