@@ -18,7 +18,7 @@ Trực quan và dễ nhìn
 --- 
 ## Cách giải mã dữ liệu 
 <p align="center">
-   <img src="Picture/Ảnh chụp màn hình (6).png" alt="Ảnh minh họa" width="550" height="250">
+   <img src="Picture/Ảnh chụp màn hình (7).png" alt="Ảnh minh họa" width="550" height="250">
 </p>
 1. Bấm "Chọn" dữ liệu muốn giải mã vô
 2. Nhập khoá mã cho file
