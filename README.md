@@ -7,21 +7,13 @@ Là một trang web giúp mọi người mã hoá dữ liệu và giải mã d�
 Trực quan và dễ nhìn
 ---
 ## Cách mã hoá dữ liệu 
+<p align="center">
+   <img src="Picture/Ảnh chụp màn hình (4).png" alt="Ảnh minh họa" width="250" height="250">
+</p>
 1. Bấm "Chọn" dữ liệu muốn mã hoá vô
-<p align="center">
-   <image></image>
-3. Nhập khoá mã cho file
-<p align="center">
-   ![image](https://github.com/user-attachments/assets/7275a4c1-b1be-4560-a241-b6eb71e81311)
-</p>
-4. Chọn "Mã Hoá"
-<p align="center">
-   ![image](https://github.com/user-attachments/assets/af920012-bfa2-4b3f-b10b-ae3404217325)
-</p>
-5. Nhấn "Thực Hiện"
-<p align="center">
-   ![image](https://github.com/user-attachments/assets/2fb6262d-5ee3-4d8a-918a-b67c511adddc)
-</p>
+2. Nhập khoá mã cho file
+3. Chọn "Mã Hoá"
+4. Nhấn "Thực Hiện"
 --> Đã thành công mã hoá file, file được tải tự động vào máy.
 --- 
 ## Cách giải mã dữ liệu 
