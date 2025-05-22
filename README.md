@@ -14,7 +14,7 @@ Là một trang web giúp mọi người mã hoá dữ liệu và giải mã d�
 ## Cách mã hoá dữ liệu
 
 <p align="center">  
-   <img src="Picture/Ảnh chụp màn hình (4).png" alt="Ảnh minh họa" width="550" height="250">  
+   <img src="Picture/Ảnh chụp màn hình (4).png" alt="Ảnh minh họa" width="450" height="250">  
 </p>  
 
 * Bấm "Chọn" dữ liệu muốn mã hoá vô.
@@ -28,7 +28,7 @@ Là một trang web giúp mọi người mã hoá dữ liệu và giải mã d�
 ## Cách giải mã dữ liệu
 
 <p align="center">  
-   <img src="Picture/Ảnh chụp màn hình (7).png" alt="Ảnh minh họa" width="550" height="250">  
+   <img src="Picture/Ảnh chụp màn hình (7).png" alt="Ảnh minh họa" width="450" height="250">  
 </p>  
 
 * Bấm "Chọn" dữ liệu muốn giải mã vô.
