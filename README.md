@@ -8,7 +8,7 @@ Trực quan và dễ nhìn
 ---
 ## Cách mã hoá dữ liệu 
 <p align="center">
-   <img src="Picture\Ảnh chụp màn hình (4).png" alt="Ảnh minh họa" width="250" height="250">
+   <img src="Picture/Ảnh chụp màn hình (4).png" alt="Ảnh minh họa" width="250" height="250">
 </p>
 1. Bấm "Chọn" dữ liệu muốn mã hoá vô
 2. Nhập khoá mã cho file
