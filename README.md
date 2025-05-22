@@ -17,6 +17,9 @@ Trực quan và dễ nhìn
 --> Đã thành công mã hoá file, file được tải tự động vào máy.
 --- 
 ## Cách giải mã dữ liệu 
+<p align="center">
+   <img src="Picture/Ảnh chụp màn hình (6).png" alt="Ảnh minh họa" width="550" height="250">
+</p>
 1. Bấm "Chọn" dữ liệu muốn giải mã vô
 2. Nhập khoá mã cho file
 3. Chọn "Giải Mã"
