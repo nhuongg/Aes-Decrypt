@@ -8,17 +8,21 @@ Trực quan và dễ nhìn
 ---
 ## Cách mã hoá dữ liệu 
 1. Bấm "Chọn" dữ liệu muốn mã hoá vô
+<p align="center">
    ![image](https://github.com/user-attachments/assets/6d295942-6ef6-41f7-8990-e22641c68a60)
-
-2. Nhập khoá mã cho file
+</p>
+3. Nhập khoá mã cho file
+<p align="center">
    ![image](https://github.com/user-attachments/assets/7275a4c1-b1be-4560-a241-b6eb71e81311)
-
-3. Chọn "Mã Hoá"
+</p>
+4. Chọn "Mã Hoá"
+<p align="center">
    ![image](https://github.com/user-attachments/assets/af920012-bfa2-4b3f-b10b-ae3404217325)
-
-4. Nhấn "Thực Hiện"
+</p>
+5. Nhấn "Thực Hiện"
+<p align="center">
    ![image](https://github.com/user-attachments/assets/2fb6262d-5ee3-4d8a-918a-b67c511adddc)
-
+</p>
 --> Đã thành công mã hoá file, file được tải tự động vào máy.
 --- 
 ## Cách giải mã dữ liệu 
