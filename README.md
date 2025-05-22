@@ -7,7 +7,7 @@
 Là một trang web giúp mọi người mã hoá dữ liệu và giải mã dữ liệu bằng thuật toán mã hoá AES.
 
 * Đơn giản và hiệu quả
- Trực quan và dễ nhìn
+* Trực quan và dễ nhìn
 
 ---
 
